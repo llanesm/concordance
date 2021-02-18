@@ -1,3 +1,5 @@
+# Provided by Oregon State class instructors
+
 from hash_map import *
 
 
