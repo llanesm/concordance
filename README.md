@@ -1,4 +1,4 @@
-OSU CS261 Data Structures projec
+OSU CS261 Data Structures project
 
 Part 1: Hash Map
 
